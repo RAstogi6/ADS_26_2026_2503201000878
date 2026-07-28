@@ -1,0 +1,21 @@
+# VS Code settings
+.vscode/
+
+# Ignore compiled C++ files
+*.exe
+*.o
+*.out
+*.obj
+
+# Ignore test files
+*.txt
+*.json
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Build folders
+build/
+cmake-build-*/
